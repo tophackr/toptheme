@@ -1,1 +1,1 @@
-toptheme moved to https://gitlab.com/tophackr/MJV/tree/toptheme
+toptheme moved to https://github.com/tophackr/MJV/tree/toptheme
